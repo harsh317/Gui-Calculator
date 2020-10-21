@@ -1,5 +1,5 @@
 # Gui-Calculator
-Python Calculator(Gui)
+
 install requirements-
 1)pyautogui
 2)tkinter
